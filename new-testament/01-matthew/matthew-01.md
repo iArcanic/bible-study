@@ -54,7 +54,7 @@ Jesus Christ came from the family of King David and also from the family of Abra
 
 This is the list of the ancestors of Jesus Christ, a descendant of David, who was a descendant of Abraham.
 
-##### GOD's WORD® Translation
+##### GOD'S WORD® Translation
 
 This is the list of ancestors of Jesus Christ, descendant of David and Abraham.
 
@@ -208,7 +208,7 @@ The book of Matthew first starts of by stating the recorded lineage or genealogy
 
 So currently, we can infer the following:
 
-Abraham --> David --> Jesus Christ
+- Abraham --> David --> Jesus Christ
 
 ---
 
@@ -258,7 +258,7 @@ Abraham fathered Isaac, Isaac fathered Jacob, Jacob fathered Judah and his broth
 
 Abraham fathered Isaac, Isaac fathered Jacob, Jacob fathered Judah and his brothers,
 
-##### GOD's WORD® Translation
+##### GOD'S WORD® Translation
 
 [Abraham] was the father of Isaac, [Isaac] the father of Jacob, [Jacob] the father of Judah and his brothers.
 
@@ -412,7 +412,7 @@ Starting off with Abraham who fathered Isaac, who fathered Jacob, who fathered J
 
 So from this, we can infer the following:
 
-Abraham --> Isaac --> Jacob --> Judah (or Juda or Judas or Iudas) and brothers
+- Abraham --> Isaac --> Jacob --> Judah (or Juda or Judas or Iudas) and brothers
 
 ---
 
@@ -462,7 +462,7 @@ Judah fathered Perez and Zerah by Tamar, Perez fathered Hezron, Hezron fathered 
 
 Judah fathered Perez and Zerah by Tamar, Perez fathered Hezron, Hezron fathered Aram,
 
-##### GOD's WORD® Translation
+##### GOD'S WORD® Translation
 
 [Judah] and [Tamar] were the father and mother of Perez and Zerah. [Perez] was the father of Hezron, [Hezron] the father of Ram,
 
@@ -616,9 +616,8 @@ Judah (or Juda or or Judas Iudas) and Tamar (or Thamar) conceived Perez (or Phar
 
 So from this, we can infer the following:
 
-Judah & Tamar --> Perez, Zerah
-
-Perez --> Hezron --> Ram
+- Judah & Tamar --> Perez, Zerah
+- Perez --> Hezron --> Ram
 
 ---
 
@@ -668,7 +667,7 @@ Aram fathered Amminadab, Amminadab fathered Nahshon, Nahshon fathered Salmon,
 
 Aram fathered Amminadab, Amminadab fathered Nahshon, Nahshon fathered Salmon,
 
-##### GOD's WORD® Translation
+##### GOD'S WORD® Translation
 
 [Ram] the father of Amminadab, [Amminadab] the father of Nahshon, [Nahshon] the father of Salmon.
 
@@ -822,11 +821,212 @@ Ram (or Aram) fathered Aminadab, who fathered Naasson (or Nahshon), who fathered
 
 So from this we can infer the following:
 
-Ram --> Aminadab --> Naasson --> Salmon
+- Ram --> Aminadab --> Naasson --> Salmon
 
 ---
 
 ## 5
+
+### Translations
+
+#### Modern
+
+##### New International Version
+
+Salmon the father of Boaz, whose mother was Rahab, Boaz the father of Obed, whose mother was Ruth, Obed the father of Jesse,
+
+##### New Living Translation
+
+Salmon was the father of Boaz (whose mother was Rahab). Boaz was the father of Obed (whose mother was Ruth). Obed was the father of Jesse.
+
+##### English Standard Version
+
+and Salmon the father of Boaz by Rahab, and Boaz the father of Obed by Ruth, and Obed the father of Jesse,
+
+##### Berean Study Bible
+
+Salmon was the father of Boaz by Rahab, Boaz the father of Obed by Ruth, Obed the father of Jesse,
+
+##### New American Standard Bible
+
+Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, and Obed fathered Jesse.
+
+##### New American Standard Bible 1995
+
+Salmon was the father of Boaz by Rahab, Boaz was the father of Obed by Ruth, and Obed the father of Jesse.
+
+##### New American Standard Bible 1977
+
+and to Salmon was born Boaz by Rahab; and to Boaz was born Obed by Ruth; and to Obed, Jesse;
+
+##### Amplified Bible
+
+Salmon was the father of Boaz by Rahab, Boaz was the father of Obed by Ruth, and Obed the father of Jesse.
+
+##### Christian Standard Bible
+
+Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, Obed fathered Jesse,
+
+##### Holman Christian Standard Bible
+
+Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, Obed fathered Jesse,
+
+##### GOD'S WORD® Translation
+
+[Salmon] and [Rahab] were the father and mother of Boaz. [Boaz] and [Ruth] were the father and mother of Obed. [Obed] was the father of Jesse,
+
+##### International Standard Version
+
+Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, Obed fathered Jesse,
+
+##### NET Bible
+
+Salmon the father of Boaz (by Rahab), Boaz the father of Obed (by Ruth), Obed the father of Jesse,
+
+#### Classic
+
+##### King James Bible
+
+And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
+
+##### New King James Version
+
+Salmon begot Boaz by Rahab, Boaz begot Obed by Ruth, Obed begot Jesse,
+
+##### King James 2000 Bible
+
+And Salmon begat Boaz of Rahab; and Boaz begat Obed of Ruth; and Obed begat Jesse;
+
+##### New Heart English Bible
+
+and Salmon the father of Boaz by Rahab, and Boaz was the father of Obed by Ruth, and Obed was the father of Jesse,
+
+##### World English Bible
+
+Salmon became the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse.
+
+##### American King James Version
+
+And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
+
+##### American Standard Version
+
+and Salmon begat Boaz of Rahab; and Boaz begat Obed of Ruth; and Obed begat Jesse;
+
+##### A Faithful Version
+
+And Salmon begat Boaz of Rachab; and Boaz begat Obed of Ruth; and Obed begat Jesse;
+
+##### Darby Bible Translation
+
+and Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse,
+
+##### English Revised Version
+
+and Salmon begat Boaz of Rahab; and Boaz begat Obed of Ruth; and Obed begat Jesse;
+
+##### Webster's Bible Translation
+
+And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
+
+#### Early modern
+
+##### Geneva Bible of 1587
+
+And Salmon begate Booz of Rachab; Booz begat Obed of Ruth; Obed begat Iesse.
+
+##### Bishops' Bible of 1568
+
+Salmon begat Boos, of Rachab, Boos begat Obed of Ruth, Obed begat Iesse.
+
+##### Coverdale Bible of 1535
+
+Salmon begat Boos of Rahab: Boos begat Obed of Ruth: Obed begat Iesse:
+
+##### Tyndale Bible of 1526
+
+Salmon begat Boos of Rahab: Boos begat Obed of Ruth: Obed begat Iesse:
+
+#### Literal
+
+##### Literal Standard Version
+
+and Salmon begot Boaz of Rahab, and Boaz begot Obed of Ruth, and Obed begot Jesse,
+
+##### Berean Literal Bible
+
+And Salmon begat Boaz out of Rahab, and Boaz begat Obed out of Ruth, and Obed begat Jesse,
+
+##### Young's Literal Translation
+
+and Salmon begat Boaz of Rahab, and Boaz begat Obed of Ruth, and Obed begat Jesse,
+
+##### Smith's Literal Translation
+
+And Salmon begat Booz of Rachab; and Booz begat Obed of Rath; and Obed begat Jesse;
+
+##### Literal Emphasis Translation
+
+and Salmon begat Boaz from out of Rahab; and Boaz begat Obed from out of Ruth; and Obed begat Jesse;
+
+#### Catholic
+
+##### Douay-Rheims Bible
+
+And Salmon begot Booz of Rahab. And Booz begot Obed of Ruth. And Obed begot Jesse.
+
+##### Catholic Public Domain Version
+
+And Salmon conceived Boaz by Rahab. And Boaz conceived Obed by Ruth. And Obed conceived Jesse.
+
+#### Aramaic
+
+##### Aramaic Bible in Plain English
+
+Salmon begot Boaz from Rahab, Boaz begot Obayd from Ruth, Obayd begot Jesse.
+
+##### Lamsa Bible
+
+Salmon begot Boaz of his wife Rahab; Boaz begot Obed of his wife Ruth; Obed begot Jesse
+
+#### New Testament
+
+##### Anderson New Testament
+
+Salmon begot Boaz of Rachab: Boaz begot Obed of Ruth: Obed begot Jesse:
+
+##### Godbey New Testament
+
+and Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
+
+##### Haweis New Testament
+
+and Salmon begat Boaz of Rachab, and Boaz begat Obed of Ruth, and Obed begat Jesse,
+
+##### Mace New Testament
+
+Salmon the father of Booz by Rachab, and Booz the father of Obed by Ruth, and Obed the father of Jesse.
+
+##### Weymouth New Testament
+
+Salmon (by Rahab)
+
+##### Worrell New Testament
+
+and Salmon begat Boaz of Rahab; and Boaz begat Obed of Ruth; and Obed begat Jesse;
+
+##### Worsley New Testament
+
+and Salmon had Booz by Rahab, and Booz had Obed by Ruth,
+
+### Analysis
+
+Salmon and Rahab conceived Boaz, who convieved Obed with Ruth, and Obed fathered from Jesse.
+
+So, from this we can infer the following:
+
+- Salmon & Rahab --> Boaz
+- Boaz & Ruth --> Obed --> Jesse
 
 ---
 
