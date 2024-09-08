@@ -612,7 +612,7 @@ and Judah had Phares and Zara by Thamar; and Phares begat Esrom,
 
 ### Analysis
 
-Judah (or Juda or or Judas Iudas) and Tamar (or Thamar) conceived Perez (or Pharez or Phares) and Zerah (or Zara or Zarah or zaram). Perez fathered Hezron (or Esrom or Esron), who fathered Ram (or Aram).
+Judah (or Juda or Judas Iudas) and Tamar (or Thamar) conceived Perez (or Pharez or Phares) and Zerah (or Zara or Zarah or zaram). Perez fathered Hezron (or Esrom or Esron), who fathered Ram (or Aram).
 
 So from this, we can infer the following:
 
@@ -1021,7 +1021,7 @@ and Salmon had Booz by Rahab, and Booz had Obed by Ruth,
 
 ### Analysis
 
-Salmon and Rahab conceived Boaz, who convieved Obed with Ruth, and Obed fathered from Jesse.
+Salmon and Rahab conceived Boaz (or Boos or Booz), who convieved Obed with Ruth (or Rath), and Obed fathered from Jesse.
 
 So, from this we can infer the following:
 
@@ -1190,7 +1190,7 @@ And Jesse conceived king David. And king David conceived Solomon, by her who had
 
 Jesse begot David the King, David begot Solomon from the wife of Uriah.
 
-##### Lamsa Bible
+##### Lamsa Bible
 
 Jesse begot David the king; David the king begot Solomon of the wife of Uriah;
 
@@ -1243,91 +1243,199 @@ So, from this we can infer the following:
 
 ##### New International Version
 
+Solomon the father of Rehoboam, Rehoboam the father of Abijah, Abijah the father of Asa,
+
 ##### New Living Translation
+
+Solomon was the father of Rehoboam. Rehoboam was the father of Abijah. Abijah was the father of Asa.
 
 ##### English Standard Version
 
+and Solomon the father of Rehoboam, and Rehoboam the father of Abijah, and Abijah the father of Asaph,
+
 ##### Berean Study Bible
+
+Solomon the father of Rehoboam, Rehoboam the father of Abijah, and Abijah the father of Asa.
 
 ##### New American Standard Bible
 
+Solomon fathered Rehoboam, Rehoboam fathered Abijah, and Abijah fathered Asa.
+
 ##### New American Standard Bible 1995
+
+Solomon was the father of Rehoboam, Rehoboam the father of Abijah, and Abijah the father of Asa.
 
 ##### New American Standard Bible 1977
 
+and to Solomon was born Rehoboam; and to Rehoboam, Abijah; and to Abijah, Asa;
+
 ##### Amplified Bible
+
+Solomon was the father of Rehoboam, Rehoboam the father of Abijah, and Abijah the father of Asa.
 
 ##### Christian Standard Bible
 
+Solomon fathered Rehoboam, Rehoboam fathered Abijah, Abijah fathered Asa,
+
 ##### Holman Christian Standard Bible
+
+Solomon fathered Rehoboam, Rehoboam fathered Abijah, Abijah fathered Asa,
 
 ##### GOD'S WORD® Translation
 
+[Solomon] was the father of Rehoboam, [Rehoboam] the father of Abijah, [Abijah] the father of Asa,
+
 ##### International Standard Version
 
+Solomon fathered Rehoboam, Rehoboam fathered Abijah, Abijah fathered Asaph,
+
 ##### NET Bible
+
+Solomon the father of Rehoboam, Rehoboam the father of Abijah, Abijah the father of Asa,
 
 #### Classic
 
 ##### King James Bible
 
+And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
+
 ##### New King James Version
+
+Solomon begot Rehoboam, Rehoboam begot Abijah, and Abijah begot Asa.
 
 ##### King James 2000 Bible
 
+And Solomon begat Rehoboam; and Rehoboam begat Abijah; and Abijah begat Asa;
+
 ##### New Heart English Bible
+
+and Solomon was the father of Rehoboam, and Rehoboam the father of Abijah, and Abijah the father of Asa;
 
 ##### World English Bible
 
+Solomon became the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa.
+
 ##### American King James Version
+
+And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
 
 ##### American Standard Version
 
+and Solomon begat Rehoboam; and Rehoboam begat Abijah; and Abijah begat Asa;
+
 ##### A Faithful Version
+
+And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
 
 ##### Darby Bible Translation
 
+and Solomon begat Roboam, and Roboam begat Abia, and Abia begat Asa,
+
 ##### English Revised Version
 
+and Solomon begat Rehoboam; and Rehoboam begat Abijah; and Abijah begat Asa;
+
 ##### Webster's Bible Translation
+
+And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
 
 #### Early modern
 
 ##### Geneva Bible of 1587
 
+And Solomon begate Roboam; Roboam begate Abia; Abia begate Asa.
+
 ##### Bishops' Bible of 1568
+
+Solomon begat Roboam, Roboam begat Abia, Abia begat Asa.
 
 ##### Coverdale Bible of 1535
 
+Salomon begat Roboam: Roboam begat Abia: Abia begat Asa:
+
 ##### Tyndale Bible of 1526
+
+Salomon begat Roboam: Roboam begat Abia: Abia begat Asa:
 
 #### Literal
 
 ##### Literal Standard Version
 
+and Solomon begot Rehoboam, and Rehoboam begot Abijah, and Abijah begot Asa,
+
 ##### Berean Literal Bible
+
+and Solomon begat Rehoboam, and Rehoboam begat Abijah, and Abijah begat Asa.
 
 ##### Young's Literal Translation
 
+and Solomon begat Rehoboam, and Rehoboam begat Abijah, and Abijah begat Asa,
+
 ##### Smith's Literal Translation
 
+And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
+
 ##### Literal Emphasis Translation
+
+and Solomon begat Rehoboam; and Rehoboam begat Abijah; and Abijah begat Asa;
 
 #### Catholic
 
 ##### Douay-Rheims Bible
 
+And Solomon begot Roboam. And Roboam begot Abia. And Abia begot Asa.
+
 ##### Catholic Public Domain Version
+
+And Solomon conceived Rehoboam. And Rehoboam conceived Abijah. And Abijah conceived Asa.
 
 #### Aramaic
 
 ##### Aramaic Bible in Plain English
 
+Solomon begot Rehoboam, Rehoboam begot Abia, Abia begot Asa.
+
 ##### Lamsa Bible
+
+Solomon begot Rehoboam; Rehoboam begot Abijah; Abijah begot Asa;
 
 #### New Testament
 
+##### Anderson New Testament
+
+Solomon begot Rehoboam: Rehoboam begot Abia: Abia begot Asa:
+
+##### Godbey New Testament
+
+and Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;
+
+##### Haweis New Testament
+
+and Solomon begat Roboam, and Roboam begat Abia, and Abia begat Asa,
+
+##### Mace New Testament
+
+Solomon was the father of Roboam, Roboam the father of Abia, Abia the father of Asa.
+
+##### Weymouth New Testament
+
+Solomon of Rehoboam; Rehoboam of Abijah; Abijah of Asa;
+
+##### Worrell New Testament
+
+and Solomon begat Rehoboam; and Rehoboam begat Abijah; and Abijah begat Asa;
+
+##### Worsley New Testament
+
+And Solomon begat Roboam, and Roboam begat Abia,
+
 ### Analysis
+
+King Solomon conceived Rehoboam (or Roboam), who conceived Abijah (or Abia), who conceived Asa.
+
+So, from this we can infer the following:
+
+- King Solomon --> Rehoboam --> Abijah --> Asa
 
 ---
 
