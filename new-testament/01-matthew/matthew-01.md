@@ -1395,7 +1395,7 @@ And Solomon conceived Rehoboam. And Rehoboam conceived Abijah. And Abijah concei
 
 Solomon begot Rehoboam, Rehoboam begot Abia, Abia begot Asa.
 
-##### Lamsa Bible
+##### Lamsa Bible
 
 Solomon begot Rehoboam; Rehoboam begot Abijah; Abijah begot Asa;
 
@@ -1447,91 +1447,199 @@ So, from this we can infer the following:
 
 ##### New International Version
 
+Asa the father of Jehoshaphat, Jehoshaphat the father of Jehoram, Jehoram the father of Uzziah,
+
 ##### New Living Translation
+
+Asa was the father of Jehoshaphat. Jehoshaphat was the father of Jehoram. Jehoram was the father of Uzziah.
 
 ##### English Standard Version
 
+and Asaph the father of Jehoshaphat, and Jehoshaphat the father of Joram, and Joram the father of Uzziah,
+
 ##### Berean Study Bible
+
+Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.
 
 ##### New American Standard Bible
 
+Asa fathered Jehoshaphat, Jehoshaphat fathered Joram, and Joram fathered Uzziah.
+
 ##### New American Standard Bible 1995
+
+Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.
 
 ##### New American Standard Bible 1977
 
+and to Asa was born Jehoshaphat; and to Jehoshaphat, Joram; and to Joram, Uzziah;
+
 ##### Amplified Bible
+
+Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.
 
 ##### Christian Standard Bible
 
+Asa fathered Jehoshaphat, Jehoshaphat fathered Joram, Joram fathered Uzziah,
+
 ##### Holman Christian Standard Bible
+
+Asa fathered Jehoshaphat, Jehoshaphat fathered Joram, Joram fathered Uzziah,
 
 ##### GOD'S WORD® Translation
 
+[Asa] the father of Jehoshaphat, [Jehoshaphat] the father of Joram, [Joram] the father of Uzziah,
+
 ##### International Standard Version
 
+Asaph fathered Jehoshaphat, Jehoshaphat fathered Joram, Joram fathered Uzziah,
+
 ##### NET Bible
+
+Asa the father of Jehoshaphat, Jehoshaphat the father of Joram, Joram the father of Uzziah,
 
 #### Classic
 
 ##### King James Bible
 
+And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;
+
 ##### New King James Version
+
+Asa begot Jehoshaphat, Jehoshaphat begot Joram, and Joram begot Uzziah.
 
 ##### King James 2000 Bible
 
+And Asa begat Jehoshaphat; and Jehoshaphat begat Joram; and Joram begat Uzziah;
+
 ##### New Heart English Bible
+
+and Asa the father of Jehoshaphat, and Jehoshaphat the father of Joram, and Joram the father of Uzziah,
 
 ##### World English Bible
 
+Asa became the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah.
+
 ##### American King James Version
+
+And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;
 
 ##### American Standard Version
 
+and Asa begat Jehoshaphat; and Jehoshaphat begat Joram; and Joram begat Uzziah;
+
 ##### A Faithful Version
+
+And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;
 
 ##### Darby Bible Translation
 
+and Asa begat Josaphat, and Josaphat begat Joram, and Joram begat Ozias,
+
 ##### English Revised Version
 
+and Asa begat Jehoshaphat; and Jehoshaphat begat Joram; and Joram begat Uzziah;
+
 ##### Webster's Bible Translation
+
+And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;
 
 #### Early modern
 
 ##### Geneva Bible of 1587
 
+And Asa begate Iosaphat; Iosaphat begate Ioram; Ioram begate Hozias.
+
 ##### Bishops' Bible of 1568
+
+Asa begat Iosaphat, Iosaphat begat Ioram, Ioram begat Ozias.
 
 ##### Coverdale Bible of 1535
 
+Asa begat Iosaphat: Iosaphat begat Ioram: Ioram begat Osias:
+
 ##### Tyndale Bible of 1526
+
+Asa begat Iosaphat: Iosaphat begat Ioram: Ioram begat Osias:
 
 #### Literal
 
 ##### Literal Standard Version
 
+and Asa begot Jehoshaphat, and Jehoshaphat begot Joram, and Joram begot Uzziah,
+
 ##### Berean Literal Bible
+
+And Asa begat Jehoshaphat, and Jehoshaphat begat Joram, and Joram begat Uzziah.
 
 ##### Young's Literal Translation
 
+and Asa begat Jehoshaphat, and Jehoshaphat begat Joram, and Joram begat Uzziah,
+
 ##### Smith's Literal Translation
 
+And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;
+
 ##### Literal Emphasis Translation
+
+and Asa begat Jehoshaphat; and Jehoshaphat begat Joram; and Joram begat Uzziah;
 
 #### Catholic
 
 ##### Douay-Rheims Bible
 
+And Asa begot Josaphat. And Josaphat begot Joram. And Joram begot Ozias.
+
 ##### Catholic Public Domain Version
+
+And Asa conceived Jehoshaphat. And Jehoshaphat conceived Joram. And Joram conceived Uzziah.
 
 #### Aramaic
 
 ##### Aramaic Bible in Plain English
 
-##### Lamsa Bible
+Asa begot Jehoshaphat, Jehoshaphat begot Joram, Joram begot Uzaya.
+
+##### Lamsa Bible
+
+Asa begot Jehoshaphat; Jehoshaphat begot Joram; Joram begot Uzziah;
 
 #### New Testament
 
+##### Anderson New Testament
+
+Asa begot Jehosaphat: Jehosaphat begot Jehoram: Jehoram begot Uzziah:
+
+##### Godbey New Testament
+
+and Asa begat Josaphat; and Josaphat begat Joram; Joram begat Hozias;
+
+##### Haweis New Testament
+
+and Asa begat Josaphat, and Josaphat begat Joram, and Joram begat Ozias,
+
+##### Mace New Testament
+
+Asa the father of Josaphat, Josaphat the father of Joram, Joram the father of Ozias.
+
+##### Weymouth New Testament
+
+Asa of Jehoshaphat; Jehoshaphat of Jehoram; Jehoram of Uzziah;
+
+##### Worrell New Testament
+
+and Asa begat Jehoshaphat; and Jehoshaphat begat Joram; and Joram begat Uzziah;
+
+##### Worsley New Testament
+
+and Abia begat Asa, and Asa begat Josaphat, and Josaphat begat Joram,
+
 ### Analysis
+
+Asa conceived Jehoshaphat (or Josaphat or Iosaphat), who conceived Jehoram (or Joram or Ioram), who conceived Uzziah (or Ozias or Hozias or Osias or Uzaya).
+
+So, from this we can infer the following:
+
+- Asa --> Jehoshaphat --> Jehoram --> Uzziah
 
 ---
 
@@ -1623,7 +1731,7 @@ So, from this we can infer the following:
 
 ##### Aramaic Bible in Plain English
 
-##### Lamsa Bible
+##### Lamsa Bible
 
 #### New Testament
 
@@ -1719,7 +1827,7 @@ So, from this we can infer the following:
 
 ##### Aramaic Bible in Plain English
 
-##### Lamsa Bible
+##### Lamsa Bible
 
 #### New Testament
 
@@ -1815,7 +1923,7 @@ So, from this we can infer the following:
 
 ##### Aramaic Bible in Plain English
 
-##### Lamsa Bible
+##### Lamsa Bible
 
 #### New Testament
 
